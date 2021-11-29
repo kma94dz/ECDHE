@@ -1,3 +1,6 @@
+# first install
+python -m pip install cryptography
+
 # ECDHE
 ECDHE in python
 # how it works
